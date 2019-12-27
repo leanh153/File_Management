@@ -16,17 +16,14 @@ echo "# $project_name
 echo "## Table of contents
 
 - [Pre-Requisites](#Pre-Requisites)
-- [Demo](#Demo)
 - [How to run](#How-to-run)
 - [What's included](#whats-included)
 - [Creators](#creators)
 
 ## Pre-Requisites
 - [Install JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
-- [Netbeans](https://netbeans.org/downloads/8.2/)
+- [Install Netbeans](https://netbeans.org/downloads/8.2/)
 
-## Demo
-- [Video]()
 
 ## How to run
 
